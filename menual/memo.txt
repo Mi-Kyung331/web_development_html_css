@@ -1,3 +1,20 @@
+1. Visual Studio Code 설치(있는 자리는 그냥)
+window Visual Studio 
+ahngeunsu_html_css
+2. Github 연동
+3. Theme 설정 -> Laptop은 필요한 것만
+size gap -> 2
+font wrap -> on
+extenstion -> 1) material icon Theme  -> 아이콘
+              2) One dark Pro         -> 배경
+              3) Live server          -> 라이브 서버 : 코드를 수정할 때마다 자동으로 웹페이지에 반영돼서 결과물을 확인
+              4) indent-rainbow       -> 들여쓰기를 하면 색이 막 구분되면서 어디까지의 영역인지 표현
+              5) Bracket Pair Color   -> 여는 괄호 / 닫는 괄호 쌍을 한가지 색으로 구분지어주는 역할.(이제 설정에 있음)
+              6) Auto Rename Tage     -> 중간에 태그 이름을 바꿨을 때 닫는 쪽도 알아서 바꿔주는 역할
+4. HTML / CSS 에 대해서
+5. 실습 
+
+
 20250122 목요일
 
 HTML / CSS / JavaScript
