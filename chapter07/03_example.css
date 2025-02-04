@@ -12,7 +12,7 @@ p {
 } */
 
 
-div {
+.div1 {
   /* (1) 마진 하나 지정 사례 */
   /* padding: 0px;
   margin: 40px; */
@@ -28,4 +28,21 @@ div {
   /* (4) 마진 값 세 개 지정 사례 - 첫 번째 값 : 위쪽 영역 / 두 번째 값 : 좌우 영역 / 세 번째 값 : 아래쪽 영역 */
   /* padding: 0;
   margin: 12px 24px 48px; */
+
+  /* (3) padding 값을 네 개로 지정하는 경우
+  margin: 0;
+  padding: 1em 2em 3em 4em; */
+
+/* (4) padding 값을 세 개로 지정하는 경우
+margin: 0;
+padding: 4em 2em 0; 첫 번째 - 위, 두번 째 - 좌우, 세 번째 - 아래 */
+
+margin: 50px;
+padding: 16px;
+background-color: blueviolet;
+}
+
+.div2 {
+  margin: 24px;
+  background-color: aquamarine;
 }
